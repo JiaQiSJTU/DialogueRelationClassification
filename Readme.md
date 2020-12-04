@@ -9,7 +9,7 @@ Paper: "DDRel: A new dataset for interpersonal relation classification in dyadic
 * Put glove.840B.300d.txt under ./ .
 
 ## Download DDRel Dataset
-Download DDRel from (Google Drive)[]. (The link will be released soon.) Put the dataset files under ./ddrel/ .
+Download DDRel from Google Drive. (The link will be released soon.) Put the dataset files under ./ddrel/ .
 
 ## Getting Started
 Requirements
