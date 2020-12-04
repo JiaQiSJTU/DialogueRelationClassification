@@ -4,12 +4,12 @@ Paper: "DDRel: A new dataset for interpersonal relation classification in dyadic
 
 
 ## Download GloVe Embeddings
-* Download the (glove.840B.300.zip)[http://nlp.stanford.edu/data/glove.840B.300d.zip]
+* Download the [glove.840B.300.zip](http://nlp.stanford.edu/data/glove.840B.300d.zip)
 * Unzip the file
 * Put glove.840B.300d.txt under ./ .
 
 ## Download DDRel Dataset
-Download DDRel from Google Drive. (The link will be released soon.) Put the dataset files under ./ddrel/ .
+Download DDRel from [Google Drive](). (The link will be released soon.) Put the dataset files under ./ddrel/ .
 
 ## Getting Started
 Requirements
